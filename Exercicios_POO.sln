@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesDeposito", "TestesDep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste_AlunoMedia", "Teste_AlunoMedia\Teste_AlunoMedia.csproj", "{C02DC348-30C8-443E-A555-DE31EC716766}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteSalarioFuncionario", "TesteSalarioFuncionario\TesteSalarioFuncionario.csproj", "{9F8158C3-5A13-47F2-916E-9CF8277DD063}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C02DC348-30C8-443E-A555-DE31EC716766}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C02DC348-30C8-443E-A555-DE31EC716766}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C02DC348-30C8-443E-A555-DE31EC716766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F8158C3-5A13-47F2-916E-9CF8277DD063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F8158C3-5A13-47F2-916E-9CF8277DD063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F8158C3-5A13-47F2-916E-9CF8277DD063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F8158C3-5A13-47F2-916E-9CF8277DD063}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
