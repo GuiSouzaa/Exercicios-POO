@@ -2,7 +2,7 @@ using Exercicios_POO;
 
 namespace TestesDeposito
 {
-    public class UnitTest1
+    public class TesteContabancaria
     {
         [Fact]
         public void ContaBancariaTests()

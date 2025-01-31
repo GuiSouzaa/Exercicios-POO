@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Exercicios_POO
 {
+
+    //Implemente uma classe chamada “ContaBancária” que possua atributos para armazenar o
+    //número da conta, nome do titular e saldo. Adicione métodos para realizar depósitos e saques.
     public class ContaBancaria
     {
         public int numero_conta { get; set; }
