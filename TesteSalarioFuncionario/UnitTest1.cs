@@ -20,10 +20,7 @@ namespace TesteSalarioFuncionario
             double salarioLiquido = funcionarioAnalista.calcularSalarioLiquido(descontos);
             Assert.Equal(liquido, salarioLiquido);
 
-            Console.WriteLine($"O valor com descontos é de: {salarioLiquido}");
-
-
-
+            
         }
     }
 }
