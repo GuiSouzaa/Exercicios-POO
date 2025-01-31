@@ -24,7 +24,7 @@ namespace TestesDeposito
             conta1.Sacar(10);
 
             Assert.Equal(40, conta1.saldo);
-            Assert.Equal(30, conta1.saldo);
+            
 
             // O Assert verifica o resultado esperado.
         }
